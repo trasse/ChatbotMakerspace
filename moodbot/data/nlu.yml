@@ -89,3 +89,20 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: tell_name
+  examples: |
+    - I am [Marco](name)
+    - Call me [Patrick](name)
+    - It's [Aline](name)
+    - I'm [Irene](name)
+    [Hanna](name)
+    [Sarah](name)
+    [Tim](name)
+    [John](name)
+
+
+
+
+
+
